@@ -4,11 +4,12 @@
   "description": "An incremental game for your terminal.",
   "main": "index.js",
   "keywords": [
-    "debug-rpg",
     "debug",
     "rpg",
     "incremental",
-    "game"
+    "game",
+    "fun",
+    "terminal"
   ],
   "author": "Nigel Munoz",
   "license": "MIT",
