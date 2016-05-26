@@ -11,6 +11,10 @@
     "fun",
     "terminal"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nigelmnz/debug-rpg"
+  },
   "author": "Nigel Munoz",
   "license": "MIT",
   "dependencies": {
