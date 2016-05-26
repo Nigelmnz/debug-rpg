@@ -8,10 +8,6 @@ Eventually, you decide you've had enough, so you tell Carol in HR that you are q
 
 ![Action-packed Gameplay!](http://nigelmnz.com/images/debug-rpg.png)
 
-# install
+## Installation
 
-npm install -g debug-rpg
-
-# license
-
-MIT
+    npm install colors

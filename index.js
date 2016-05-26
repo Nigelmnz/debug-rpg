@@ -1,7 +1,7 @@
 const colors = require('colors');
 const log = require('log-update');
 const keypress = require('keypress');
-const shopItems = require('./shopItems');
+const shopItems = require('./data/shopItems');
 const UPDATE_RATE_MS = 10;
 const [DEBUG_MODE, WRITE_MODE, BUY_MODE, ABOUT_MODE, MAIN_MODE] = [{}, { charSize: 0.05, text: '' },
  {}, {}, {}];
