@@ -1,6 +1,6 @@
 {
   "name": "debug-rpg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An incremental game for your terminal.",
   "main": "index.js",
   "keywords": [
