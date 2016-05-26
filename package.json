@@ -1,8 +1,12 @@
 {
   "name": "debug-rpg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An incremental game for your terminal.",
-  "main": "index.js",
+  "main": "bin/debug-rpg.js",
+  "bin": {
+    "debug-rpg": "bin/debug-rpg.js"
+  },
+  "preferGlobal": "true",
   "keywords": [
     "debug",
     "rpg",
