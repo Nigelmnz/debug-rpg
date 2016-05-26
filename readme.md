@@ -10,4 +10,4 @@ Eventually, you decide you've had enough, so you tell Carol in HR that you are q
 
 ## Installation
 
-    npm install colors
+    npm install -g debug-rpg
